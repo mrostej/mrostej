@@ -54,34 +54,15 @@ Me considero una persona **resolutiva y proactiva**, siempre buscando mejorar y 
 
 ## 🌱 Formación adicional  
 
-**Cursos y Certificaciones (OpenWebinars):**  
-
-- Introducción a pruebas automáticas con JUnit 5 (feb. 2025)  
-- MongoDB: Creación y gestión de bases de datos NoSQL (feb. 2025)  
-- Maven (ene. 2025)  
-- Proyectos Java con Apache Maven (ene. 2025)  
-- Desarrolla una aplicación con Spring Boot y Angular (ene. 2025)  
-- Consultas básicas con Spring Data JPA (nov. 2024)  
-- Crea tu primera API Rest con Spring Boot (nov. 2024)  
-- Crea tu primera aplicación web con Spring Boot (nov. 2024)  
-- Crea un CRUD con Spring Boot, Spring Data JPA y Thymeleaf (nov. 2024)  
-- Spring Boot y Spring MVC 5: Creando una aplicación (nov. 2024)  
-- Spring Core 5 (nov. 2024)  
-- Creación de interfaces de usuario con Jetpack Compose (nov. 2024)  
-- Desarrollo de una API REST con Spring Boot (nov. 2024)  
-- Seguridad en tu API REST con Spring Boot (nov. 2024)  
-- Introducción a Spring Data JPA (nov. 2024)  
-- Introducción a Spring Framework (nov. 2024)  
-- Introducción a Spring Security (nov. 2024)  
-- Java 18: Colecciones concurrentes (nov. 2024)  
-- Java 18: Concurrencia (oct. 2024)  
+Metodologías **Agile (Scrum)**
+**Cursos y Certificaciones [(OpenWebinars)](https://www.linkedin.com/in/misael-ros-tejero-1003252a2/details/certifications):**  
 
 ---
 
 ## 🌍 Idiomas  
 
 - Español (Nativo)  
-- Inglés (B1)  
+- Inglés (B1 sin certificado)  
 
 ---
 
