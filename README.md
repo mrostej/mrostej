@@ -48,6 +48,7 @@ Me considero una persona **resolutiva y proactiva**, siempre buscando mejorar y 
 ## 🌱 Formación adicional  
 
 Metodologías **Agile (Scrum)**
+
 **Cursos y Certificaciones [(OpenWebinars)](https://www.linkedin.com/in/misael-ros-tejero-1003252a2/details/certifications):**  
 
 ---
