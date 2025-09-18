@@ -75,6 +75,6 @@ Metodologías **Agile (Scrum)**
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-
 ✨ *Buscando oportunidades para crecer como programador junior y aportar valor en proyectos innovadores.*
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
